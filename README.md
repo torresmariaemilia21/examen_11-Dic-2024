@@ -14,5 +14,5 @@
    [[Manual de Protocolo de Emergencia y Evacuación](https://docs.google.com/document/d/1BeyN5odOOM3SoBNvXyqUBK7XpLW8HjucsYNomrybq24/edit?usp=sharing)]
    
    ### Se adjunta una muestra de Control Indice de Accidentes e Incidentes
-   [[Control Indice de Accidentes e Incidentes](https://docs.google.com/spreadsheets/d/1dIzjv5VoTCFbwKZoEbWFBzSsw_OL6fEo1uFCbxCV2qE/edit?usp=sharing)]
+   [[Control Indice de Accidentes e Incidentes](archivo_accidentes_incidentes.xls)]
    
