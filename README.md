@@ -1,6 +1,6 @@
 # examen_11-Dic-2024
    # EXAMEN FINAL 11-DIC-24 TURNO MAÑANA
-   # REGULAR INCOMPLETO
+   # REGULAR COMPLETO
    ## TECNICATURA DE DESPACHO // SEGURIDAD & HIGIENE
    
    ## Protocolo de emergencia y evacuación para un aserradero.
